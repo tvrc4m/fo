@@ -1,6 +1,9 @@
 
 ## fibos nodejs command
 
+* npm install
+* node index.js    
+* node index.js eos2fo 20  // 20EOS->FO
 > config.js
 
 ```javascript
