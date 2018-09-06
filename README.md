@@ -1,6 +1,8 @@
 
 ## fibos nodejs command
 
+* git clone git@github.com:tvrc4m/fo.git
+* cd fo
 * npm install
 * node index.js    
 * node index.js eos2fo 20  // 20EOS->FO
