@@ -148,7 +148,7 @@ function delegate_usage(){
 }
 
 function check_num(num){
-    if(num===true || num<=0){
+    if(typeof(num)=='undefined' || num===true || num<=0){
         usage()
     }
 }
